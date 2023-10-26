@@ -1,0 +1,4 @@
+1,Customer,Gottlieb,customer,customer,waleerat@gmail.com,-,-,-,false
+2,waleerat,Gottlieb,customer2,customer2,waleerat@gmail.com,-,-,-,true
+3,sfsfse,sefe,tttt,1111,,-,-,-,false
+4,sam,mas,sammas,sammas,sammas,sammas,432,swe,false
